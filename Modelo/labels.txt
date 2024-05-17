@@ -1,0 +1,2 @@
+0 Natureza
+1 Cidade
